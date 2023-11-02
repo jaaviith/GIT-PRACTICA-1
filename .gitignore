@@ -1,0 +1,5 @@
+# Ignora los archivos terminados en .txt
+*.txt
+
+# Ignora los archivos terminados en .inf
+*.inf
